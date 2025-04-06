@@ -9,26 +9,6 @@ proxy-groups:
       - Japan
       - United States
       - DIRECT
-  - name: Telegram
-    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
-    type: select
-    proxies:
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
-      - DIRECT
-  - name: OpenAi
-    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
-    type: select
-    proxies:
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
-      - DIRECT
   - name: YouTube
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
@@ -75,6 +55,26 @@ proxy-groups:
       - Taiwan
       - Singapore
       - Japan
+  - name: Telegram
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
+    type: select
+    proxies:
+      - HongKong
+      - Taiwan
+      - Singapore
+      - Japan
+      - United States
+      - DIRECT
+  - name: OpenAi
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
+    type: select
+    proxies:
+      - HongKong
+      - Taiwan
+      - Singapore
+      - Japan
+      - United States
+      - DIRECT
   - name: 谷歌FCM
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
