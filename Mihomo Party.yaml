@@ -33,7 +33,7 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
     proxies:
-      - Hongkong
+      - HongKong
       - Taiwan
       - Singapore
       - Japan
