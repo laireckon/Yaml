@@ -4,31 +4,28 @@ proxy-groups:
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: YouTube
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: Netflix
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: Bilibili
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/bilibili.png
     type: select
@@ -41,11 +38,10 @@ proxy-groups:
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: ChinaMedia
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DomesticMedia.png
     type: select
@@ -60,71 +56,52 @@ proxy-groups:
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: OpenAi
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: 谷歌FCM
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
     proxies:
       - HongKong
-      - Taiwan
       - Singapore
       - Japan
       - United States
-      - DIRECT
+      - Taiwan
   - name: 微软Bing
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/bing.png
     type: select
     proxies:
       - DIRECT
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
+      - Proxy
   - name: 微软云盘
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/OneDrive.png
     type: select
     proxies:
       - DIRECT
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
+      - Proxy
   - name: 微软服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
     type: select
     proxies:
       - DIRECT
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
+      - Proxy
   - name: 苹果服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
     type: select
     proxies:
       - DIRECT
-      - HongKong
-      - Taiwan
-      - Singapore
-      - Japan
-      - United States
+      - Proxy
   - name: 游戏平台
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
     type: select
