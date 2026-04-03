@@ -417,7 +417,7 @@ rules:
   - "RULE-SET,Download,Domestic"
   - "GEOIP,CN,Domestic"
   - "MATCH,Others"
+
 dns:
-    #此处省略部分设置#
   nameserver-policy:
     '*.oix_nodes.com':'124.221.68.73:1053'
