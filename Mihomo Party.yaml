@@ -4,6 +4,7 @@ proxy-groups:
     type: select
     proxies:
       - HongKong
+      - Philippines
       - Singapore
       - Japan
       - United States
@@ -13,6 +14,7 @@ proxy-groups:
     type: select
     proxies:
       - HongKong
+      - Philippines
       - Singapore
       - Japan
       - United States
@@ -148,6 +150,13 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
     filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: Philippines
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Philippines.png
+    include-all: true
+    filter: (?i)菲|菲律宾|PH|Philippines
     type: url-test
     interval: 300
     tolerance: 50
